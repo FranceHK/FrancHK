@@ -1,11 +1,11 @@
 <!-- ══════════════════════════ ANIMATED GLASS BANNER ══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=France%20Mfilinge&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Hi,%20I'm%20France&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=&animation=fadeIn" alt="banner" />
 
 <!-- ══════════════════════════ ANIMATED TYPING ROLE ══════════════════════════ -->
 <a href="https://Magicdesign.ct.ws">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9DFF&center=true&vCenter=true&width=520&height=45&lines=Web+Developer+%7C+UI%2FUX+Designer;Turning+ideas+into+beautiful+experiences;Building+clean%2C+user-friendly+websites;Founder+%40+Magicdesign+%C2%B7+Tanzania" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9DFF&center=true&vCenter=true&width=560&height=45&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Turning+ideas+into+real-world+applications;Building+modern%2C+scalable+products;Founder+%40+Magicdesign+%C2%B7+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="typing" />
 </a>
 
 <br/>
@@ -29,30 +29,87 @@
 
 </div>
 
-```typescript
-const france = {
-  name: "France Msafili Mfilinge",
-  role: ["Web Developer", "UI/UX Designer"],
-  brand: "Magicdesign",
-  location: "Tanzania 🇹🇿",
-  currentFocus: "Clean, user-friendly websites",
-  motto: "Turning ideas into beautiful, functional digital experiences ✨",
-};
-```
+> I'm a passionate **Full Stack Developer** and **UI/UX Designer** from Tanzania,
+> focused on building modern, scalable, and user-friendly digital products.
+>
+> I enjoy turning ideas into real-world applications — from mobile apps and business
+> management systems to SaaS platforms and enterprise dashboards. My goal is to create
+> software that solves practical problems while delivering an excellent user experience. ✨
+
+<br/>
+
+<!-- ══════════════════════════ WHAT I DO ══════════════════════════ -->
+<div align="center">
+
+### `✦ What I Do ✦`
+
+</div>
+
+<table align="center">
+<tr>
+<td>💻 Full Stack Web Development</td>
+<td>📱 Cross-Platform Mobile Apps</td>
+</tr>
+<tr>
+<td>🎨 UI/UX Design & Wireframing</td>
+<td>🗄️ Database & Backend Development</td>
+</tr>
+<tr>
+<td>☁️ Cloud Deployment & Architecture</td>
+<td>🔗 REST API Development & Integration</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- ══════════════════════════ TECH STACK (glass tiles) ══════════════════════════ -->
 <div align="center">
 
-### `✦ Tech & Tools ✦`
+### `✦ Tech Stack ✦`
 
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="tech" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,js,ts,tailwind&theme=dark" alt="frontend" />
 </p>
+
+**Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,nodejs&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="backend" />
 </p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&theme=dark" alt="databases" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,vercel&theme=dark" alt="tools" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ CURRENTLY LEARNING & INTERESTS ══════════════════════════ -->
+<div align="center">
+
+### `✦ Currently Learning ✦`
+
+![System Architecture](https://img.shields.io/badge/Advanced_System_Architecture-16213e?style=flat-square&labelColor=1a1a2e&color=16213e)
+![AI Apps](https://img.shields.io/badge/AI--Powered_Applications-16213e?style=flat-square&labelColor=1a1a2e&color=16213e)
+![Cloud](https://img.shields.io/badge/Cloud_Infrastructure-16213e?style=flat-square&labelColor=1a1a2e&color=16213e)
+![IoT](https://img.shields.io/badge/IoT_Development-16213e?style=flat-square&labelColor=1a1a2e&color=16213e)
+![Enterprise](https://img.shields.io/badge/Enterprise_Software-16213e?style=flat-square&labelColor=1a1a2e&color=16213e)
+
+### `✦ Interests ✦`
+
+![Business Systems](https://img.shields.io/badge/Business_Management_Systems-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
+![FinTech](https://img.shields.io/badge/FinTech-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
+![E-commerce](https://img.shields.io/badge/E--commerce-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
+![Wi-Fi Mgmt](https://img.shields.io/badge/Network_%26_WiFi_Management-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
+![POS](https://img.shields.io/badge/Inventory_%26_POS_Systems-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
+![SaaS](https://img.shields.io/badge/SaaS_Products-0f3460?style=flat-square&labelColor=1a1a2e&color=0f3460)
 
 </div>
 
@@ -87,7 +144,7 @@ const france = {
 
 <br/>
 
-<!-- ══════════════════════════ TROPHIES (animated) ══════════════════════════ -->
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
 <div align="center">
 
 ### `✦ Trophies ✦`
@@ -98,7 +155,7 @@ const france = {
 
 <br/>
 
-<!-- ══════════════════════════ ACTIVITY GRAPH (animated line) ══════════════════════════ -->
+<!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
 <div align="center">
 
 ### `✦ Contribution Activity ✦`
@@ -109,6 +166,20 @@ const france = {
 <img width="95%" src="https://raw.githubusercontent.com/FrancHK/FrancHK/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
+
+<br/>
+
+<!-- ══════════════════════════ GOALS ══════════════════════════ -->
+<div align="center">
+
+### `✦ Goals ✦`
+
+</div>
+
+> My mission is to build impactful software products that improve businesses and everyday
+> life while continuously growing as a software engineer. I believe great software is not
+> just about writing code — it's about solving problems, creating value, and delivering
+> exceptional user experiences. 🎯
 
 <br/>
 
@@ -129,9 +200,7 @@ const france = {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="" width="0" height="0" />
-
-<i>✦ Thanks for stopping by — let's build something beautiful ✦</i>
+<i>⭐ Always learning. Always building. Always improving.</i>
 
 <br/><br/>
 
