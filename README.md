@@ -162,8 +162,32 @@
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancHK&bg_color=00000000&color=4f9dff&line=4f9dff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-<!-- Snake contribution animation (needs the snake GitHub Action — see setup notes) -->
-<img width="95%" src="https://raw.githubusercontent.com/FrancHK/FrancHK/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ GAME ZONE ══════════════════════════ -->
+<div align="center">
+
+### `✦ 🎮 Game Zone ✦`
+
+<sub><code>while (bugs.length) ship.fire();</code> — a self-playing arcade round, built as a pure animated SVG</sub>
+
+<br/><br/>
+
+<img width="95%" src="./assets/bug-blaster.svg" alt="Bug Blaster — animated arcade game where a ship squashes software bugs" />
+
+<br/><br/>
+
+<sub>🐍 My contributions, eaten live by a snake (refreshed every 12 hours)</sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancHK/FrancHK/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancHK/FrancHK/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/FrancHK/FrancHK/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+</picture>
 
 </div>
 
